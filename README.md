@@ -1,2 +1,3 @@
 # MusicAnalysis
-Some DSP in Processing
+## Some DSP in Processing
+A little processing sketch
